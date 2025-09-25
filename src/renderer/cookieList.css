@@ -1,0 +1,14 @@
+.cookie-list-container {
+    align-self: flex-end;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.cookie-list-placeholder {
+    font-size: 90%;
+    color: rgb(150, 150, 150);
+    margin: 2rem auto;
+    width: 100%;
+}

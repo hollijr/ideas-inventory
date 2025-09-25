@@ -1,0 +1,13 @@
+.add-item-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.add-item-thumbnail {
+    width: 200px;
+    height: 200px;
+}
+

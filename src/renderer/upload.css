@@ -1,0 +1,18 @@
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 1rem;
+}
+
+.upload-photo-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 0.5rem;
+    margin-top: 2rem;
+}
+
+.upload-photo-label {
+    font-weight: bold;
+}
